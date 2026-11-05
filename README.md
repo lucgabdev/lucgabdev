@@ -2,7 +2,7 @@
 
 # Lucas Gabriel
 
-**Desenvolvedor full stack**
+**Desenvolvedor full stack · front end e back end**
 
 Produtos web em TypeScript e sites para negócios locais.<br>
 Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
@@ -22,6 +22,13 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 Trabalho do banco de dados à interface. Hoje meu foco está em duas frentes: SaaS para pequenos negócios de serviço e sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região.
 
 Gosto de projeto que chega em produção com teste, regra de negócio no servidor e cuidado com o dado de quem usa. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
+
+## Experiência
+
+| Função | Foco |
+| --- | --- |
+| Auxiliar de programação | Desenvolvimento e manutenção de software |
+| Auxiliar administrativo | Rotinas administrativas e apoio à operação |
 
 ## Projetos em destaque
 

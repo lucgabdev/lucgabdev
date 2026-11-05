@@ -9,10 +9,10 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://lucgabdev.vercel.app)
-[![Clientry](https://img.shields.io/badge/Clientry-clientry.com.br-1E3A8A?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://clientry.com.br)
-[![Roblox](https://img.shields.io/badge/Flickzx_Studios-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
-[![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucwp__/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white&cacheSeconds=86400)](https://lucgabdev.vercel.app)
+[![Clientry](https://img.shields.io/badge/Clientry-clientry.com.br-1E3A8A?style=for-the-badge&logo=googlecalendar&logoColor=white&cacheSeconds=86400)](https://clientry.com.br)
+[![Roblox](https://img.shields.io/badge/Flickzx_Studios-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&cacheSeconds=86400)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
+[![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=86400)](https://www.instagram.com/lucwp__/)
 
 </div>
 
@@ -118,10 +118,10 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white&cacheSeconds=86400)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white&cacheSeconds=86400)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white&cacheSeconds=86400)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
 
 ## Como eu trabalho

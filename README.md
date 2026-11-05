@@ -2,7 +2,7 @@
 
 # Lucas Gabriel
 
-**Desenvolvedor full stack · Founder da Flickzx Studios**
+**Desenvolvedor full stack**
 
 Produtos web em TypeScript, sites para negócios locais e jogos no Roblox.<br>
 Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
@@ -11,7 +11,7 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white&cacheSeconds=86400)](https://lucgabdev.vercel.app)
 [![Clientry](https://img.shields.io/badge/Clientry-SaaS_de_agenda-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=86400)](https://clientry.com.br)
-[![Roblox](https://img.shields.io/badge/Flickzx_Studios-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&cacheSeconds=86400)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
+[![Roblox](https://img.shields.io/badge/Jogos-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&cacheSeconds=86400)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
 [![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=86400)](https://www.instagram.com/lucwp__/)
 
 </div>
@@ -20,7 +20,7 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 ## Sobre
 
-Trabalho do banco de dados à interface. Hoje meu foco está em três frentes: SaaS para pequenos negócios de serviço, sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região, e jogos publicados no Roblox pela Flickzx Studios.
+Trabalho do banco de dados à interface. Hoje meu foco está em três frentes: SaaS para pequenos negócios de serviço, sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região, e jogos publicados no Roblox.
 
 Gosto de projeto que chega em produção com teste, regra de negócio no servidor e cuidado com o dado de quem usa. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
 
@@ -77,9 +77,9 @@ Página de produto e filme de 45 s para um headset gamer, num monorepo que compa
 ### [Build Your Own Brainrot Tycoon](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
 <a href="https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON"><img src="assets/brainrot-tycoon.png" width="96" align="right" alt="Ícone do Build Your Own Brainrot Tycoon" /></a>
 
-Tycoon publicado no Roblox pela Flickzx Studios: o jogador monta e evolui o próprio império de brainrots.
+Tycoon publicado no Roblox: o jogador monta e evolui o próprio império de brainrots.
 
-Em desenvolvimento no estúdio: **Veilbreak Defenders**, um tower defense de anime com sistema de passivas, em inglês e português.
+Em desenvolvimento: **Veilbreak Defenders**, um tower defense de anime com sistema de passivas, em inglês e português.
 
 `Luau` `Roblox Studio`
 

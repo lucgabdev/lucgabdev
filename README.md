@@ -1,39 +1,138 @@
-# Olá, eu sou o Lucas Gabriel 👋
+<div align="center">
 
-Desenvolvedor web e criador de jogos em **Anápolis, GO** · Founder da **Flickzx Studios** 🎮
+# Lucas Gabriel
 
-Crio sites e landing pages para comércios locais — rápidos, bonitos no celular e feitos para
-trazer cliente pelo WhatsApp e pelo Google Maps — e desenvolvo jogos no Roblox.
+**Desenvolvedor full stack · Founder da Flickzx Studios**
 
-### 🛠️ Tecnologias
+Produtos web em TypeScript, sites para negócios locais e jogos no Roblox.<br>
+Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<br>
 
-### 🎮 Jogos · Flickzx Studios
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://lucgabdev.vercel.app)
+[![Clientry](https://img.shields.io/badge/Clientry-clientry.com.br-1E3A8A?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://clientry.com.br)
+[![Roblox](https://img.shields.io/badge/Flickzx_Studios-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
+[![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucwp__/)
 
-<a href="https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON">
-  <img src="assets/brainrot-tycoon.png" width="140" align="left" alt="Ícone do Build Your Own Brainrot Tycoon" />
-</a>
+</div>
 
-**BUILD YOUR OWN BRAINROT TYCOON**
+---
 
-Um tycoon onde você monta e evolui o seu próprio império de brainrots.
+## Sobre
 
-[![Jogar no Roblox](https://img.shields.io/badge/Jogar_no_Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
+Trabalho do banco de dados à interface. Hoje meu foco está em três frentes: SaaS para pequenos negócios de serviço, sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região, e jogos publicados no Roblox pela Flickzx Studios.
 
-<br clear="left" />
+Gosto de projeto que chega em produção com teste, regra de negócio no servidor e cuidado com o dado de quem usa. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
 
-### ✅ O que todo site meu tem
+## Projetos em destaque
 
-- Layout responsivo, pensado primeiro para o celular
-- Botão de WhatsApp e mapa do Google integrados
-- Carregamento rápido e boa base de SEO (títulos, descrições, imagem de compartilhamento)
-- Cabeçalhos de segurança (CSP, HTTPS) configurados na hospedagem
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> O código dos projetos de clientes fica em repositórios privados.
+### [Clientry](https://clientry.com.br)
+SaaS de agenda, clientes e pagamentos para barbearias, salões, estúdios e clínicas.
+
+- Multi-tenant: toda consulta é filtrada pela organização no serviço, nunca na tela
+- Agendamento público, CRM, financeiro, automações por cron e cobrança de planos via Mercado Pago, com tokens dos negócios cifrados
+- Login por senha (scrypt) ou código por e-mail, com dispositivos confiáveis
+- Conta de demonstração isolada por visitante e removida automaticamente
+
+`Next.js 16` `React 19` `TypeScript` `Drizzle` `PostgreSQL` `Zod` `Vitest` `Playwright`
+
+<sub>Código privado · produto comercial</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### KindUP
+Plataforma de doações que liga doadores a instituições, com três perfis: doador, instituição e administração.
+
+- Fluxo da doação como máquina de estados, da confirmação à entrega
+- Verificação de instituições, moderação, denúncias e trilha de auditoria
+- Sessões com token guardado só como hash, rate limit persistido no banco e validação de upload pela assinatura do arquivo
+- LGPD: exportação dos próprios dados e exclusão com anonimização
+
+`Next.js 15` `TypeScript` `Prisma` `PostgreSQL` `Zod` `Recharts` `Vitest`
+
+<sub>Código privado · projeto acadêmico</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Fallen Pantera Pro V2](https://fallen-pantera.vercel.app)
+Página de produto e filme de 45 s para um headset gamer, num monorepo que compartilha o mesmo kit de marca entre os dois.
+
+- Vista explodida interativa, diagrama polar dos microfones e visualizador de crosstalk em canvas
+- Filme em Remotion a 1080p/60 fps, com roteiro e linha do tempo versionados em JSON
+- Respeita `prefers-reduced-motion`
+
+`React 19` `Tailwind CSS 4` `Framer Motion` `Remotion` `npm workspaces`
+
+</td>
+<td width="50%" valign="top">
+
+### [Build Your Own Brainrot Tycoon](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
+<a href="https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON"><img src="assets/brainrot-tycoon.png" width="96" align="right" alt="Ícone do Build Your Own Brainrot Tycoon" /></a>
+
+Tycoon publicado no Roblox pela Flickzx Studios: o jogador monta e evolui o próprio império de brainrots.
+
+Em desenvolvimento no estúdio: **Veilbreak Defenders**, um tower defense de anime com sistema de passivas, em inglês e português.
+
+`Luau` `Roblox Studio`
+
+</td>
+</tr>
+</table>
+
+## Sites para negócios
+
+Landing pages e catálogos pensados primeiro para o celular, com conversão pelo WhatsApp.
+
+| Projeto | Segmento |
+| --- | --- |
+| [Oben Place](https://oben-place.vercel.app) | Hamburgueria em Anápolis, com cardápio e pedidos online |
+| [Mel Nativo](https://mel-jatai.vercel.app) | Loja e guia de méis de abelhas nativas |
+| [Mahi 3D Printing](https://mahi-printing.vercel.app) | Impressão 3D sob medida (EUA) |
+| [Valim Impressões 3D](https://valim-impress-es.vercel.app) | Impressão 3D em Goiás, com orçamento pelo WhatsApp |
+| [Chaveiro City](https://chaveirocity.vercel.app) | Chaveiro residencial, comercial e automotivo |
+| [Globo Materiais](https://globomateletricos.vercel.app) | Materiais elétricos e hidráulicos em Anápolis |
+| [CraftGuess](https://fast-vega-cpqi9w3.vercel.app) | Web app de quiz sobre Minecraft, com modos, ranking e conquistas |
+
+## Stack
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, HTML, CSS" />
+
+**Backend e dados**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,java,spring&perline=8" alt="Node.js, Express, PostgreSQL, Prisma, Java, Spring" />
+
+**Infra e ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,linux&perline=8" alt="Git, GitHub, Vercel, Netlify, Figma, VS Code, Linux" />
+
+**Jogos e sistemas**<br>
+<img src="https://skillicons.dev/icons?i=lua,c&perline=8" alt="Lua, C" />
+
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
+
+## Como eu trabalho
+
+- **Regra de negócio no servidor.** Ações e rotas são finas; permissão e validação ficam nos serviços, que são testados diretamente.
+- **Tipos e validação de ponta a ponta.** TypeScript estrito e Zod em toda entrada que vem do usuário.
+- **Teste antes de publicar.** Vitest para domínio e integração contra Postgres real, Playwright para os fluxos principais.
+- **Segurança e privacidade por padrão.** Hash de senha e de sessão, rate limit, cabeçalhos de segurança e LGPD tratada no modelo de dados.
+- **Acessível e leve.** Mobile first, contraste e foco visíveis, `prefers-reduced-motion` respeitado.
+- **Nada inventado.** Preço, depoimento, horário ou número de cliente só entra no site se for real e confirmado.
+
+## Contato
+
+Orçamentos, parcerias e projetos: pelo [portfólio](https://lucgabdev.vercel.app) ou no Discord **@lucgabdev**.

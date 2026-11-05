@@ -10,7 +10,7 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 <br>
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white&cacheSeconds=86400)](https://lucgabdev.vercel.app)
-[![Clientry](https://img.shields.io/badge/Clientry-clientry.com.br-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=86400)](https://clientry.com.br)
+[![Clientry](https://img.shields.io/badge/Clientry-SaaS_de_agenda-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=86400)](https://clientry.com.br)
 [![Roblox](https://img.shields.io/badge/Flickzx_Studios-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&cacheSeconds=86400)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
 [![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=86400)](https://www.instagram.com/lucwp__/)
 

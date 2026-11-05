@@ -4,14 +4,13 @@
 
 **Desenvolvedor full stack**
 
-Produtos web em TypeScript, sites para negócios locais e jogos no Roblox.<br>
+Produtos web em TypeScript e sites para negócios locais.<br>
 Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 <br>
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucgabdev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white&cacheSeconds=86400)](https://lucgabdev.vercel.app)
 [![Clientry](https://img.shields.io/badge/Clientry-SaaS_de_agenda-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=86400)](https://clientry.com.br)
-[![Roblox](https://img.shields.io/badge/Jogos-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&cacheSeconds=86400)](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
 [![Instagram](https://img.shields.io/badge/Instagram-lucwp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=86400)](https://www.instagram.com/lucwp__/)
 
 </div>
@@ -20,7 +19,7 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 ## Sobre
 
-Trabalho do banco de dados à interface. Hoje meu foco está em três frentes: SaaS para pequenos negócios de serviço, sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região, e jogos publicados no Roblox.
+Trabalho do banco de dados à interface. Hoje meu foco está em duas frentes: SaaS para pequenos negócios de serviço e sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região.
 
 Gosto de projeto que chega em produção com teste, regra de negócio no servidor e cuidado com o dado de quem usa. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
 
@@ -60,7 +59,7 @@ Plataforma de doações que liga doadores a instituições, com três perfis: do
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### [Fallen Pantera Pro V2](https://fallen-pantera.vercel.app)
 Página de produto e filme de 45 s para um headset gamer, num monorepo que compartilha o mesmo kit de marca entre os dois.
@@ -70,18 +69,6 @@ Página de produto e filme de 45 s para um headset gamer, num monorepo que compa
 - Respeita `prefers-reduced-motion`
 
 `React 19` `Tailwind CSS 4` `Framer Motion` `Remotion` `npm workspaces`
-
-</td>
-<td width="50%" valign="top">
-
-### [Build Your Own Brainrot Tycoon](https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON)
-<a href="https://www.roblox.com/games/126413557024028/BUILD-YOUR-OWN-BRAINROT-TYCOON"><img src="assets/brainrot-tycoon.png" width="96" align="right" alt="Ícone do Build Your Own Brainrot Tycoon" /></a>
-
-Tycoon publicado no Roblox: o jogador monta e evolui o próprio império de brainrots.
-
-Em desenvolvimento: **Veilbreak Defenders**, um tower defense de anime com sistema de passivas, em inglês e português.
-
-`Luau` `Roblox Studio`
 
 </td>
 </tr>
@@ -112,8 +99,8 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 **Infra e ferramentas**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,linux&perline=8" alt="Git, GitHub, Vercel, Netlify, Figma, VS Code, Linux" />
 
-**Jogos e sistemas**<br>
-<img src="https://skillicons.dev/icons?i=lua,c&perline=8" alt="Lua, C" />
+**Sistemas**<br>
+<img src="https://skillicons.dev/icons?i=c&perline=8" alt="C" />
 
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
@@ -121,8 +108,6 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white&cacheSeconds=86400)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white&cacheSeconds=86400)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white&cacheSeconds=86400)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
 
 ## Como eu trabalho
 

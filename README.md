@@ -90,9 +90,7 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 | [Oben Place](https://oben-place.vercel.app) | Hamburgueria em Anápolis, com cardápio e pedidos online |
 | [Mel Nativo](https://mel-jatai.vercel.app) | Loja e guia de méis de abelhas nativas |
 | [Mahi 3D Printing](https://mahi-printing.vercel.app) | Impressão 3D sob medida (EUA) |
-| [Valim Impressões 3D](https://valim-impress-es.vercel.app) | Impressão 3D em Goiás, com orçamento pelo WhatsApp |
 | [Chaveiro City](https://chaveirocity.vercel.app) | Chaveiro residencial, comercial e automotivo |
-| [Globo Materiais](https://globomateletricos.vercel.app) | Materiais elétricos e hidráulicos em Anápolis |
 | [CraftGuess](https://fast-vega-cpqi9w3.vercel.app) | Web app de quiz sobre Minecraft, com modos, ranking e conquistas |
 
 ## Stack

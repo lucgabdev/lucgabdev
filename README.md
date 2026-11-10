@@ -2,9 +2,9 @@
 
 # Lucas Gabriel
 
-**Desenvolvedor full stack · front end e back end**
+**Desenvolvedor front end**
 
-Produtos web em TypeScript e sites para negócios locais.<br>
+Interfaces web em React e TypeScript e sites para negócios locais.<br>
 Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 <br>
@@ -19,9 +19,9 @@ Anápolis, GO · Engenharia de Software na UniEVANGÉLICA
 
 ## Sobre
 
-Trabalho do banco de dados à interface. Hoje meu foco está em duas frentes: SaaS para pequenos negócios de serviço e sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região.
+Trabalho com front end: interface, componentes, responsividade e a experiência de quem usa. Hoje meu foco está em duas frentes: telas de SaaS para pequenos negócios de serviço e sites que trazem cliente pelo WhatsApp e pelo Google para o comércio da minha região.
 
-Gosto de projeto que chega em produção com teste, regra de negócio no servidor e cuidado com o dado de quem usa. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
+Gosto de interface que chega em produção testada, acessível e rápida no celular. A maior parte do código fica em repositórios privados porque é produto comercial ou trabalho de cliente; abaixo está o que cada um faz e como foi construído.
 
 ## Experiência
 
@@ -98,16 +98,12 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, HTML, CSS" />
 
-**Backend e dados**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,java,spring&perline=8" alt="Node.js, Express, PostgreSQL, Prisma, Java, Spring" />
-
 **Infra e ferramentas**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,linux&perline=8" alt="Git, GitHub, Vercel, Netlify, Figma, VS Code, Linux" />
 
 **Sistemas**<br>
 <img src="https://skillicons.dev/icons?i=c&perline=8" alt="C" />
 
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white&cacheSeconds=86400)
@@ -116,10 +112,9 @@ Landing pages e catálogos pensados primeiro para o celular, com conversão pelo
 
 ## Como eu trabalho
 
-- **Regra de negócio no servidor.** Ações e rotas são finas; permissão e validação ficam nos serviços, que são testados diretamente.
-- **Tipos e validação de ponta a ponta.** TypeScript estrito e Zod em toda entrada que vem do usuário.
-- **Teste antes de publicar.** Vitest para domínio e integração contra Postgres real, Playwright para os fluxos principais.
-- **Segurança e privacidade por padrão.** Hash de senha e de sessão, rate limit, cabeçalhos de segurança e LGPD tratada no modelo de dados.
+- **Componentes antes de telas.** Interface montada a partir de componentes reutilizáveis, com estados de carregamento, vazio e erro pensados desde o início.
+- **Tipos e validação nos formulários.** TypeScript estrito e Zod em toda entrada que vem do usuário.
+- **Teste antes de publicar.** Vitest para componentes e lógica de tela, Playwright para os fluxos principais.
 - **Acessível e leve.** Mobile first, contraste e foco visíveis, `prefers-reduced-motion` respeitado.
 - **Nada inventado.** Preço, depoimento, horário ou número de cliente só entra no site se for real e confirmado.
 

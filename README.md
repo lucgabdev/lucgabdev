@@ -79,6 +79,40 @@ Página de produto e filme de 45 s para um headset gamer, num monorepo que compa
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Energia Solar](https://energia-solar-ruddy-kappa.vercel.app)
+Landing page de energia solar residencial, com a cena do telhado mudando entre manhã e noite.
+
+[![Energia Solar](assets/energia-solar.jpg)](https://energia-solar-ruddy-kappa.vercel.app)
+
+- Alternância manhã/noite que troca a cena e as cores da página
+- Seções de funcionamento, economia, casos e pedido de orçamento
+- Banner de cookies e páginas de privacidade e termos
+- Animações por `requestAnimationFrame` e `IntersectionObserver`, desligadas com `prefers-reduced-motion`
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### [Loja da Nike](https://loja-da-nike.vercel.app)
+Vitrine "Experimente o Look": uma passarela com seis looks completos, da cabeça aos pés.
+
+[![Loja da Nike](assets/loja-da-nike.jpg)](https://loja-da-nike.vercel.app)
+
+- Carrossel de looks com arraste, setas e reprodução automática
+- Pontos clicáveis em cada peça do modelo, ligados à lista "Neste look"
+- Sacola de estilo e desconto ao levar o look completo
+- Produtos vindos de uma loja Shopify de testes
+
+`HTML` `CSS` `JavaScript` `Shopify` `Vercel`
+
+<sub>Conceito não oficial, sem vínculo com a Nike</sub>
+
+</td>
+</tr>
 </table>
 
 ## Sites para negócios

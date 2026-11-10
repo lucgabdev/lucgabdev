@@ -3,8 +3,6 @@
   <img src="assets/header-light.svg" alt="Lucas Gabriel, desenvolvedor front end. Interfaces em React e TypeScript e sites que trazem cliente para negócios locais. Anápolis, GO." width="100%">
 </picture>
 
-<br>
-
 <p align="center">
   <a href="https://lucgabdev.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfólio" height="40"></a>&nbsp;
   <a href="https://clientry.com.br"><img src="assets/btn-clientry.svg" alt="Clientry" height="40"></a>&nbsp;
